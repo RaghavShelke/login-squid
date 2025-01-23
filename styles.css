@@ -10,7 +10,7 @@
 
 /* Background Styling for Login Page */
 .login-bg {
-    background: url('squid.png') no-repeat center center/cover;
+    background: url('squid2.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@
 
 /* Background Styling for Sign-Up Page */
 .signup-bg {
-    background: url('squid2.png') no-repeat center center/cover;
+    background: url('squid.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
